@@ -1,1 +1,15 @@
-/bin/
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.propertise
+.settings/
+.loadpath
+.recommenders
+
+#Eclipse
+.project
+.classpath
